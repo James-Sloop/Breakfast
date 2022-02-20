@@ -38,7 +38,7 @@ Table of Contents:
 When you are finished you should have something like this:
 
 
-![Avocado Toast](docs/avocado_toast.jpg)
+![Avocado Toast](avocado_toast.jpg)
 
 Steps:
 
@@ -84,7 +84,7 @@ Steps:
 
 When you are finished you should have something like this:
 
-![Omelet](docs/omelette.jpg)
+![Omelet](omelette.jpg)
 
 Steps:
 
@@ -139,7 +139,7 @@ by the handle. If you are burned run your hand under cool water for
 
 When you are finished you should have something like this:
 
-![Pancake](docs/pancake.jpg)
+![Pancake](pancake.jpg)
 
 Steps:
 
