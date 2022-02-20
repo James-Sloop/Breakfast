@@ -37,10 +37,8 @@ Table of Contents:
 
 When you are finished you should have something like this:
 
-![](media/image1.png){width="3.37965769903762in"
-height="2.4791666666666665in"}
 
-[[https://cdn.loveandlemons.com/wp-content/uploads/2020/01/IMG_23231-cropped-1-924x1024.jpg]{.underline}](https://cdn.loveandlemons.com/wp-content/uploads/2020/01/IMG_23231-cropped-1-924x1024.jpg)
+![Avocado Toast](docs\avocado_toast.jpg)
 
 Steps:
 
@@ -86,8 +84,7 @@ Steps:
 
 When you are finished you should have something like this:
 
-![](media/image3.png){width="3.2864588801399823in"
-height="3.2864588801399823in"}[[https://cdn4.mydukaan.io/app/image/700x700/?url=https://mydukaan-staging.s3.amazonaws.com/47912/444c4087-9508-43c4-8802-569e6def4f00.png]{.underline}](https://cdn4.mydukaan.io/app/image/700x700/?url=https://mydukaan-staging.s3.amazonaws.com/47912/444c4087-9508-43c4-8802-569e6def4f00.png)
+![Omelet](docs\omelette.jpg)
 
 Steps:
 
@@ -142,10 +139,7 @@ by the handle. If you are burned run your hand under cool water for
 
 When you are finished you should have something like this:
 
-![](media/image2.png){width="4.411458880139983in"
-height="2.474472878390201in"}
-
-[[https://cleananddelicious.com/wp-content/uploads/2018/08/Fluffy-Vegan-Pancakes-640-1-640x360.jpg]{.underline}](https://cleananddelicious.com/wp-content/uploads/2018/08/Fluffy-Vegan-Pancakes-640-1-640x360.jpg)
+![Pancake](docs\pancake.jpg)
 
 Steps:
 
@@ -200,10 +194,7 @@ by the handle. If you are burned run your hand under cool water for
 
 When you are finished you should have something like this:
 
-![](media/image4.png){width="3.463542213473316in"
-height="3.534225721784777in"}
-
-[[https://www.veggiesdontbite.com/wp-content/uploads/2020/04/vegan-oatmeal-recipe-17.jpg]{.underline}](https://www.veggiesdontbite.com/wp-content/uploads/2020/04/vegan-oatmeal-recipe-17.jpg)
+![Oatmeal](docs\oatmeal.jpg)
 
 Steps:
 
