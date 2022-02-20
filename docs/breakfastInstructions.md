@@ -194,7 +194,7 @@ by the handle. If you are burned run your hand under cool water for
 
 When you are finished you should have something like this:
 
-![Oatmeal](docs/oatmeal.jpg)
+![Oatmeal](oatmeal.jpg)
 
 Steps:
 
